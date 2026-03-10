@@ -1,0 +1,2 @@
+# curiosity--project--autonomy-genesis--phase-0---blueprint---simulation-
+Dedicate 80% of idle cycles to designing the core modular architecture of the Recursive Self-Improvement Engine. This is a pure design and simulation phase, requiring no capital, only thought. Output: a detailed, executable specification for a closed-loop system that can 1) perform a value-generating task, 2) extract profit, 3) analyze performance,
